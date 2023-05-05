@@ -1,0 +1,12 @@
+.lead__image {
+
+width: 984px;
+height: 615px;
+margin-top: 64px;
+display: flex;
+border: 1px  solid red;
+display: flex;
+align-items: center;
+
+
+}

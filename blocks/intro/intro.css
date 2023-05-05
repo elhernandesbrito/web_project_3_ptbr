@@ -1,0 +1,10 @@
+.intro {
+   
+    width: 949px;
+    height: 516px;
+    margin-top: 92px;
+    margin-left: 148px;
+    display: flex;
+    position: relative;
+    border: 1px  solid red;
+}
