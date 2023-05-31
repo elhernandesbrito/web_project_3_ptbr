@@ -1,0 +1,16 @@
+    .cover__background {
+        width: 1184px;
+        height: 740px;
+        position: absolute;
+        background-image: url("./images/__background.png");
+        }
+
+@media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .cover__background {
+        width: 768px;
+        height: 746px;
+        background-image: url("./images/__background.png");
+        position: absolute;
+      }
+}

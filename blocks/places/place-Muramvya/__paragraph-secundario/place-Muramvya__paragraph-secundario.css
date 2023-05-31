@@ -9,3 +9,18 @@
     margin-bottom: 25px;
     color: #FFFFFF;
     }
+
+@media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .place-Muramvya__paragraph-secundario {
+        width: 352px;
+        height: 208px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 163%;
+        margin-bottom: 12px;
+        color: #FFFFFF;
+    }
+}

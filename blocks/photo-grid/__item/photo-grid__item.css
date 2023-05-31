@@ -3,3 +3,12 @@
     height: 213px;
     display: flex;
     }
+
+@media screen and (max-width:768px) and  (max-height:7382px) {
+    
+    .photo-grid__item {
+        width: 352px;
+        height: 264px;
+        display: flex;
+      }
+}

@@ -1,6 +1,13 @@
-.place-Muramvya__website {
-    width: 456px;
-    height: 45px;
-    margin-top: 107px;
+    .place-Muramvya__website {
+        width: 456px;
+        height: 45px;
+        margin-top: 107px;
+        }
+        
+@media screen and (max-width:768px) and  (max-height:7382px) {     
+   
+    .place-Muramvya__website {
+        width: 352px;
+        height: 45px;
+        margin-top: 47px;
     }
-      

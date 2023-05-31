@@ -1,0 +1,22 @@
+.cover {
+    position: relative;
+    width: 1184px;
+    height: 740px;
+    margin-top:0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    opacity: 0.8;
+    }
+
+@media screen and (max-width:768px) and  (max-height:7382px) {
+   
+    .cover {
+        position: relative;
+        width: 768px;
+        height: 746px;
+        margin-top: 0;
+        margin-bottom: 0px;
+        opacity: 0.8;
+    }
+}

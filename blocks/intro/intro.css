@@ -7,3 +7,16 @@
     position: relative;
     margin-bottom: 92px;
   }
+
+  @media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .intro {
+      width: 720px;
+      height: 574px;
+      margin-left: 24px;
+      display: grid;
+      flex-direction: column;
+      position: relative;
+      margin-bottom: 64px;
+    }
+  }

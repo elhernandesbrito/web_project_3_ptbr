@@ -9,3 +9,18 @@
     color: #FFFFFF;
     margin-bottom: 32px;
     }
+
+@media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .intro__author {
+        width: 720px;
+        height: 34px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.5rem;
+        line-height: 34px;
+        text-align: right;
+        margin-bottom: 32px;
+        color: #FFFFFF;
+    }
+}

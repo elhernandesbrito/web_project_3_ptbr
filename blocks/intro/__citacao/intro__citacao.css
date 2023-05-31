@@ -1,11 +1,26 @@
-.intro__citacao {
-    width: 736px;
-    height: 68px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.5rem;
-    line-height: 2.125rem;
-    color: #FFFFFF;
-    display: flex;
-    margin-bottom: 9px;
-    }
+    .intro__citacao {
+        width: 736px;
+        height: 68px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.5rem;
+        line-height: 2.125rem;
+        color: #FFFFFF;
+        display: flex;
+        margin-bottom: 9px;
+        }
+        
+@media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .intro__citacao {
+        width: 707px;
+        height: 102px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.5rem;
+        line-height: 34px;
+        color: #FFFFFF;
+        display: flex;
+        margin-bottom: 13px;
+      }
+}

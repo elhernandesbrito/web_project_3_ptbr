@@ -1,12 +1,26 @@
-.place-Ribeirao__paragraph {
-    width: 484px;
-    height: 460px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.125rem;
-    line-height: 163%;
-    margin-bottom: 25px;
-    color: #FFFFFF;
-    text-align: justify;
-    }
+    .place-Ribeirao__paragraph {
+        width: 484px;
+        height: 460px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.125rem;
+        line-height: 163%;
+        margin-bottom: 25px;
+        color: #FFFFFF;
+        text-align: justify;
+        }
+
+@media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .place-Ribeirao__paragraph {
+        width: 352px;
+        height: 340px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+        color: #FFFFFF;
+      }
+}

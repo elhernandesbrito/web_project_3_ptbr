@@ -5,3 +5,14 @@
     color: white;
     margin-bottom: 80px;
     }
+    
+@media screen and (max-width:768px) and  (max-height:7382px) {
+   
+    .place-Berea {
+        display: flex;
+        width: 720px;
+        height: 587px;
+        color: white;
+        margin-bottom: 72px;
+      }
+}
