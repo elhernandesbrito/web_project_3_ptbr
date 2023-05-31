@@ -1,13 +1,37 @@
-.lead {
-    position: absolute;
-    height: 983px;
-    width: 984px;
-    left: 148px;
-    top: 194px;
-    border-radius: 0px;
-    border: 1px  solid red;
-    display: flex;
-    flex-direction: column;
+    .lead {
+        position: relative;
+        width: 984px;
+        height: 983px;
+        margin-left: 148px;
+        display: grid;
+        flex-direction: column;
+        margin-bottom: 92px;
+    }
 
+@media screen and (max-width:768px) and  (max-height:7382px) {
+
+    .lead {
+        position: relative;
+        width: 768px;
+        height: 920px;
+        margin-left: auto;
+        margin-right: auto;
+        display: grid;
+        flex-direction: column;
+        margin-bottom: 88px;
+    }
 }
 
+@media screen and (max-width:320px) and  (max-height:9626px) {
+    .lead {
+        position: relative;
+        width: 320px;
+        height: 428px;
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 44px;
+        display: grid;
+        flex-direction: column;
+    }
+}

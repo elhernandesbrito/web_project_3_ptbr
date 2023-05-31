@@ -1,0 +1,9 @@
+.place-Berea__column {
+    width: 984px;
+    height: 680px;
+    display: grid;
+    grid-template-rows: 76px 460px 48px;
+    row-gap: 48px;
+    grid-template-columns: 460px 484px;
+    column-gap: 40px;
+    }

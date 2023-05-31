@@ -1,0 +1,7 @@
+.place-Muramvya__column {
+    display: grid;
+    grid-template-rows: 152px 460px 48px;
+    row-gap: 48px;
+    grid-template-columns: 460px 484px;
+    column-gap: 40px;
+    }

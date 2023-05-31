@@ -1,12 +1,11 @@
 .intro__title {
-    width: 949px;
+    width: 828px;
     height: 116px;
-    left: 148px;
-    top: 92px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
-    font-size: 54px;
-    line-height: 58px;
+    font-size: 3.375rem;
+    line-height: 3.625rem;
     color: #FFFFFF;
-}
+    display: flex;
+    margin-bottom: 75px;
+    }

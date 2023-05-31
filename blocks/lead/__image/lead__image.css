@@ -1,12 +1,10 @@
 .lead__image {
-
-width: 984px;
-height: 615px;
-margin-top: 64px;
-display: flex;
-border: 1px  solid red;
-display: flex;
-align-items: center;
-
-
-}
+    width: 984px;
+    height: 615px;
+    display: flex;
+    background-image: url("./images/kalegin-michail-179870-unsplash-img1.png") ;
+    align-items: center;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+  }

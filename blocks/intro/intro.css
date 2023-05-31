@@ -1,10 +1,9 @@
 .intro {
-   
-    width: 949px;
+    width: 828px;
     height: 516px;
-    margin-top: 92px;
     margin-left: 148px;
-    display: flex;
+    display: grid;
+    flex-direction: column;
     position: relative;
-    border: 1px  solid red;
-}
+    margin-bottom: 92px;
+  }
