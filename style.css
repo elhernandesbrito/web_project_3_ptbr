@@ -2141,7 +2141,6 @@
       height: 626px;
       margin-bottom: 0;
       color: white;
-      border: 3px solid red;
     }
 
     .place-Ribeirao__column {
@@ -2150,7 +2149,6 @@
       grid-template-columns: 320px;
       column-gap: 0;
       row-gap:0; 
-      border: 3px solid rgba(229, 255, 0, 0.932);
     }
 
     .place-Ribeirao__title {
@@ -2184,7 +2182,7 @@
       text-transform: uppercase;
       color: #AAAAAA;
       margin-bottom: 8px;
-  }
+    }
 
     .place-Ribeirao__artist {
       width: 288px;
@@ -2251,6 +2249,7 @@
       text-align: center;
       position: absolute;
     }
+    
     .cover__title {
       width: 288px;
       height: 35px;

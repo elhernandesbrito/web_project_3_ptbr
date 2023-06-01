@@ -22,3 +22,17 @@
             color: #FFFFFF;
         }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+
+    .place-Berea__paragraph-secundario {
+        width: 288px;
+        height: 234px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+        color: #FFFFFF;
+      }
+}

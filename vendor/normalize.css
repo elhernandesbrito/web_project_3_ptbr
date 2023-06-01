@@ -82,3 +82,34 @@
       margin-left: 20px;
     }   
   }
+
+  @media screen and (max-width:320px) and  (max-height:9626px) {
+    .button {
+      width: 288px;
+      height: 48px;
+      display: flex;
+      padding: 0px 0px;
+      gap: 0px;
+      background: #0278FE;
+      border-radius: 4px;
+      margin:auto;
+      align-items: center;
+      
+    }
+              
+    .button:hover {
+      background: #0063D2;
+    }
+  
+    .place__button {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 0.875rem;
+      line-height: 1.0625rem;
+      color: #FFFFFF;
+      cursor: pointer;
+      margin-left: 21px;
+      }   
+
+  }

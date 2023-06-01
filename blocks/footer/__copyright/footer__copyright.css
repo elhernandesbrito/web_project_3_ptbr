@@ -26,3 +26,19 @@
         margin-top: 88px;
     }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+
+    .footer__copyright {
+        width: 163px;
+        height: 16px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 0.875;
+        line-height: 1rem;
+        color: #FFFFFF;
+        margin-left: 77px;
+        margin-top: 64px;
+      }
+}

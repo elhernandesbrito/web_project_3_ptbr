@@ -17,3 +17,13 @@
         row-gap: 48px;
     }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+    .place-Berea__column {
+        display: grid;
+        grid-template-rows: 65px 75px 335px 616px 48px;
+        grid-template-columns: 320px;
+        column-gap: 0px;
+        row-gap: 0px;  
+      }
+}

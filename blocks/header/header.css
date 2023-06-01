@@ -38,3 +38,19 @@
             margin-bottom: 0;
           }
     }
+
+    @media screen and (max-width:320px) and  (max-height:9626px) {
+      .header {
+        padding-top:20px; 
+        padding-bottom: 50.15px;
+        position: relative;
+      }
+  
+     .__logo {
+        height: 51.85px;
+        width: 200px;
+        margin-left: 60px;
+        margin-bottom: 0;
+      }
+    
+    }

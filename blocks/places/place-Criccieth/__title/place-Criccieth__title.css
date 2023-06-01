@@ -23,3 +23,18 @@
         color: #FFFFFF;
       }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+    .place-Criccieth__title {
+        width: 288px;
+        height: 35px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        margin-left: 16px;
+        color: #FFFFFF;
+      }
+}
+

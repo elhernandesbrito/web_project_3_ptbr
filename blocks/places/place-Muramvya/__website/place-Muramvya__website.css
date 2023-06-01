@@ -11,3 +11,15 @@
         height: 45px;
         margin-top: 47px;
     }
+}
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+
+    .place-Muramvya__website {
+        width: 288px;
+        height: 67px;
+        margin-top: 0;
+        margin-bottom: 0px;
+        margin-left: 16px;
+      }
+}

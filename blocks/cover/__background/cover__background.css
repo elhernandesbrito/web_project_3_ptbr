@@ -14,3 +14,13 @@
         position: absolute;
       }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+    
+    .cover__background {
+        width: 321.26px;
+        height: 254px;
+        position: absolute;
+        background-image: url("./images/__background320.png");
+      }
+}

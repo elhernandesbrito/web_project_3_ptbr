@@ -15,3 +15,14 @@
         margin-bottom: 72px;
       }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+    .place-Muramvya {
+        display: flex;
+        width: 320px;
+        height: 1433px;
+        color: white;
+        margin-bottom: 50px;
+      }
+}
+

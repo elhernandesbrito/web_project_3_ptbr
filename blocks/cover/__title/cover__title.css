@@ -12,6 +12,7 @@
         }
         
 @media screen and (max-width:768px) and  (max-height:7382px) {
+
     .cover__title {
         width: 656px;
         height: 76px;
@@ -22,6 +23,22 @@
         line-height: 4.75rem;
         text-align: center;
         margin-bottom: 32px;
+        color: #FFFDFD;
+      }
+}
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+    
+    .cover__title {
+        width: 288px;
+        height: 35px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 2rem;
+        line-height: 2.1875rem;
+        text-align: center;
+        margin-bottom: 16px;
         color: #FFFDFD;
       }
 }

@@ -15,3 +15,14 @@
         margin-bottom: 46px;
     }
 }
+
+@media screen and (max-width:320px) and  (max-height:9626px) {
+
+    .place-Criccieth {
+        display: flex;
+        width: 320px;
+        height: 1222px;
+        color: white;
+        margin-bottom: 50px;
+      }
+}
