@@ -2,16 +2,16 @@
     display: flex;
     width: 984px;
     height: 756px;
-    color: white;     
-    margin-bottom: 80px;  
+    color: white;
+    margin-bottom: 80px;
    }
 @media screen and (max-width:768px) and  (max-height:7382px) {
    .place-Ucrania {
     display: flex;
     width: 733px;
     height: 600px;
-    color: white;     
-    margin-bottom: 31px;  
+    color: white;
+    margin-bottom: 31px;
   }
 }
 
@@ -20,7 +20,7 @@
     display: flex;
     width: 320px;
     height: 1135px;
-    color: white;     
-    margin-bottom: 37px;  
+    color: white;
+    margin-bottom: 37px;
   }
 }
