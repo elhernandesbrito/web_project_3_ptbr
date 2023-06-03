@@ -14,7 +14,6 @@
     font-size: 1.125rem;
     line-height: 1.375rem;
     color: #FFFFFF;
-    cursor: pointer;
     margin-left: 232px;
   }
 
@@ -42,7 +41,6 @@
       font-size: 1.125rem;
       line-height: 1.375rem;
       color: #FFFFFF;
-      cursor: pointer;
     }
        
    .cover:hover,
@@ -71,8 +69,7 @@
       font-size: 1.125rem;
       line-height: 1.375rem;
       color: #FFFFFF;
-      cursor: pointer;
-     }
+    }
        
    .cover:hover,
    .cover__button:hover {
