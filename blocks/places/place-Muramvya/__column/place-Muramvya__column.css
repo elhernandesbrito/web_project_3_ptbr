@@ -22,7 +22,7 @@
         display: grid;
         grid-template-rows: 100px 75px 350px 860px 48px;
         grid-template-columns: 320px;
-        column-gap: 0px;
-        row-gap: 0px; 
+        column-gap: 0;
+        row-gap:0;
       }
 }

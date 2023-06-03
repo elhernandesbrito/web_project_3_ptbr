@@ -25,15 +25,13 @@
 @media screen and (max-width:320px) and  (max-height:9626px) {
     .place-Muramvya__title {
         width: 288px;
-        height: 70px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 900;
-        font-size: 32px;
-        line-height: 35px;
-        margin-top: 0;
-        margin-bottom: 0px;
-        margin-left: 16px;
-        color: #FFFFFF;
+       height: 70px;
+       font-family: 'Inter';
+       font-style: normal;
+       font-weight: 900;
+       font-size: 2rem;
+       line-height: 2.1875rem;
+       color: #FFFFFF;
+       margin-left: 16px;
       }
 }

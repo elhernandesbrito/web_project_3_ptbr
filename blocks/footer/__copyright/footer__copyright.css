@@ -31,12 +31,12 @@
 
     .footer__copyright {
         width: 163px;
-        height: 16px;
+        height: 14px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
         font-size: 0.875;
-        line-height: 1rem;
+        line-height: 0.875;
         color: #FFFFFF;
         margin-left: 77px;
         margin-top: 64px;

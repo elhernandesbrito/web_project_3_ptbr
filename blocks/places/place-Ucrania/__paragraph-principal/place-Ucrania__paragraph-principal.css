@@ -28,16 +28,15 @@
 @media screen and (max-width:320px) and  (max-height:9626px) {
     
     .place-Ucrania__paragraph-principal {
-        width: 288px;
-        height: 260px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 163%;
-        margin-left: 16px;
-        margin-bottom: 7px;
-        color: #FFFFFF;
+       width: 288px;
+       height: 260px;
+       font-family: 'Inter';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 1rem;
+       line-height: 163%;
+       margin-bottom: 7px;
+       color: #FFFFFF;
       }
 
 }

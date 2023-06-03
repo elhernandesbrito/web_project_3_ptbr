@@ -1,9 +1,99 @@
-@import url(/vendor/normalize.css);
+@import url(../vendor/normalize.css);
+@import url(../fonts/font.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/button/button.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__citacao/intro__citacao.css);
+@import url(../blocks/intro/__author/intro__author.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/places//place-Ucrania/place-Ucrania.css);
+@import url(../blocks/places/place-Ucrania/__column/place-Ucrania__column.css);
+@import url(../blocks/places/place-Ucrania/__title/place-Ucrania__title.css);
+@import url(../blocks/places/place-Ucrania/__website/place-Ucrania__website.css);
+@import url(../blocks/places/place-Ucrania/__url-heading/place-Ucrania__url-heading.css);
+@import url(../blocks/places/place-Ucrania/__artist/place-Ucrania__artist.css);
+@import url(../blocks/places/place-Ucrania/__image/place-Ucrania__image.css);
+@import url(../blocks/places/place-Ucrania/__texts/place-Ucrania__texts.css);
+@import url(../blocks/places/place-Ucrania/__paragraph-principal/place-Ucrania__paragraph-principal.css);
+@import url(../blocks/places/place-Ucrania/__paragraph-secundario/place-Ucrania__paragraph-secundario.css);
+
+@import url(../blocks/places//place-Criccieth/place-Criccieth.css);
+@import url(../blocks/places/place-Criccieth/__column/place-Criccieth__column.css);
+@import url(../blocks/places/place-Criccieth/__title/place-Criccieth__title.css);
+@import url(../blocks/places/place-Criccieth/__website/place-Criccieth__website.css);
+@import url(../blocks/places/place-Criccieth/__url-heading/place-Criccieth__url-heading.css);
+@import url(../blocks/places/place-Criccieth/__artist/place-Criccieth__artist.css);
+@import url(../blocks/places/place-Criccieth/__image/place-Criccieth__image.css);
+@import url(../blocks/places/place-Criccieth/__texts/place-Criccieth__texts.css);
+@import url(../blocks/places/place-Criccieth/__paragraph-principal/place-Criccieth__paragraph-principal.css);
+@import url(../blocks/places/place-Criccieth/__paragraph-secundario/place-Criccieth__paragraph-secundario.css);
+
+@import url(../blocks/places//place-Berea/place-Berea.css);
+@import url(../blocks/places/place-Berea/__column/place-Berea__column.css);
+@import url(../blocks/places/place-Berea/__title/place-Berea__title.css);
+@import url(../blocks/places/place-Berea/__website/place-Berea__website.css);
+@import url(../blocks/places/place-Berea/__url-heading/place-Berea-heading.css);
+@import url(../blocks/places/place-Berea/__artist/place-Berea__artist.css);
+@import url(../blocks/places/place-Berea/__image/place-Berea__image.css);
+@import url(../blocks/places/place-Berea/__texts/place-Berea__texts.css);
+@import url(../blocks/places/place-Berea/__paragraph-principal/place-Berea__paragraph-principal.css);
+@import url(../blocks/places/place-Berea/__paragraph-secundario/place-Berea__paragraph-secundario.css);
+
+@import url(../blocks/places//place-Muramvya/place-Muramvya.css);
+@import url(../blocks/places/place-Muramvya/__column/place-Muramvya__column.css);
+@import url(../blocks/places/place-Muramvya/__title/place-Muramvya__title.css);
+@import url(../blocks/places/place-Muramvya/__website/place-Muramvya__website.css);
+@import url(../blocks/places/place-Muramvya/__url-heading/place-Muramvya-heading.css);
+@import url(../blocks/places/place-Muramvya/__artist/place-Muramvya__artist.css);
+@import url(../blocks/places/place-Muramvya/__image/place-Muramvya__image.css);
+@import url(../blocks/places/place-Muramvya/__texts/place-Muramvya__texts.css);
+@import url(../blocks/places/place-Muramvya/__paragraph-principal/place-Muramvya__paragraph-principal.css);
+@import url(../blocks/places/place-Muramvya/__paragraph-secundario/place-Muramvya__paragraph-secundario.css);
+@import url(../blocks/places/place-Muramvya/__paragraph-final/place-Muramvya__paragraph-final.css);
+
+@import url(../blocks/places//place-Ribeirao/place-Ribeirao.css);
+@import url(../blocks/places/place-Ribeirao/__column/place-Ribeirao__column.css);
+@import url(../blocks/places/place-Ribeirao/__title/place-Ribeirao__title.css);
+@import url(../blocks/places/place-Ribeirao/__website/place-Ribeirao__website.css);
+@import url(../blocks/places/place-Ribeirao/__url-heading/place-Ribeirao__url-heading.css);
+@import url(../blocks/places/place-Ribeirao/__artist/place-Ribeirao__artist.css);
+@import url(../blocks/places/place-Ribeirao/__image/place-Ribeirao__image.css);
+@import url(../blocks/places/place-Ribeirao/__texts/place-Ribeirao__texts.css);
+@import url(../blocks/places/place-Ribeirao/__paragraph/place-Ribeirao__paragraph.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__frame/cover__frame.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__button/cover__button.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

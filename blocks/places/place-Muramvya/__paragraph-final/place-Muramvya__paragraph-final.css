@@ -27,12 +27,12 @@
     
     .place-Muramvya__paragraph-final {
         width: 288px;
-        height: 286px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 163%;
-        color: #FFFFFF;
+       height: 286px;
+       font-family: 'Inter';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 1rem;
+       line-height: 163%;
+       color: #FFFFFF;
       }
 }

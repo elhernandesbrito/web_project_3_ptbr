@@ -1,8 +1,10 @@
+ 
     .cover__background {
         width: 1184px;
         height: 740px;
         position: absolute;
-        background-image: url("./images/__background.png");
+        display: flex;
+    /*    background-image: url("./images/__background.png");*/
         }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
@@ -10,7 +12,7 @@
     .cover__background {
         width: 768px;
         height: 746px;
-        background-image: url("./images/__background.png");
+     /*   background-image: url("./images/__background.png");*/
         position: absolute;
       }
 }
@@ -18,9 +20,10 @@
 @media screen and (max-width:320px) and  (max-height:9626px) {
     
     .cover__background {
+        margin-top: 0;
         width: 321.26px;
         height: 254px;
         position: absolute;
-        background-image: url("./images/__background320.png");
+    /*    background-image: url("./images/__background320.png");*/
       }
 }

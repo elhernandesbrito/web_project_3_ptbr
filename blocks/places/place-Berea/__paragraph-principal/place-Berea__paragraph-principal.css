@@ -28,13 +28,13 @@
     
     .place-Berea__paragraph-principal {
         width: 288px;
-        height: 364px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 163%;
-        margin-bottom: 9px;
-        color: #FFFFFF;
+       height: 364px;
+       font-family: 'Inter';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 1rem;
+       line-height: 163%;
+       margin-bottom: 9px;
+       color: #FFFFFF;
       }
 }

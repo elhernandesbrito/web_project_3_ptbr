@@ -1,7 +1,7 @@
 .place-Criccieth__image {
     width: 460px;
     height: 460px;
-    background-image: url("./images/__image4.png");
+   /* background-image: url("./images/__image4.png");*/
     }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
@@ -9,16 +9,14 @@
     .place-Criccieth__image {
         width: 340px;
         height: 340px;
-        background-image: url("./images/__image4.png");
+      /*  background-image: url("./images/__image4.png");*/
     }
 }
 
 @media screen and (max-width:320px) and  (max-height:9626px) {
     .place-Criccieth__image {
-        width: 320px;
-        height: 320px;
-        margin-top: 0;
-        margin-bottom: 0;
-        background-image: url("./images/__image4.png");
+       width: 320px;
+       height: 320px;
+    /*   background-image: url("./images/__image4.png");*/
       }
 }

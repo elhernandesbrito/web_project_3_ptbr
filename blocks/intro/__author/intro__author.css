@@ -28,15 +28,14 @@
 @media screen and (max-width:320px) and  (max-height:9626px) {
     .intro__author {
         width: 288px;
-        height: 34px;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 1.5rem;
-        line-height: 34px;
-        text-align: right;
-        color: #FFFFFF;
-        margin-top: 0;
-        margin-right: 16px;
-        margin-bottom: 18px;
+       height: 34px;
+       font-style: normal;
+       font-weight: 400;
+       font-size: 1.5rem;
+       line-height: 2.125rem;
+       text-align: right;
+       margin-bottom: 18px;
+       margin-top: 0;
+       color: #FFFFFF;
       }
 }

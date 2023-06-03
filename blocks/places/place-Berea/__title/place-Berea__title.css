@@ -30,11 +30,10 @@
         font-family: 'Inter';
         font-style: normal;
         font-weight: 900;
-        font-size: 32px;
-        line-height: 35px;
+        font-size: 2rem;
+        line-height: 2.1875rem;
         color: #FFFFFF;
         margin-left: 16px;
-        margin-bottom: 0;
       }
   
 }

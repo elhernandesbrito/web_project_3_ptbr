@@ -33,7 +33,6 @@
     .place-Criccieth__url-heading {
         width: 288px;
         height: 15px;
-        margin-bottom: 8px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -42,5 +41,6 @@
         letter-spacing: 0.12em;
         text-transform: uppercase;
         color: #AAAAAA;
+        margin-bottom: 8px;
         }
 }

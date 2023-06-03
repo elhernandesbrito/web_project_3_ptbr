@@ -22,10 +22,10 @@
 @media screen and (max-width:320px) and  (max-height:9626px) {
 
     .place-Criccieth__column {
-        display: grid;
-        grid-template-rows: 78px 119px 336px 641px 48px;
-        grid-template-columns: 320px;
-        column-gap: 0px;
-        row-gap: 0px;
+       display: grid;
+       grid-template-rows: 78px 119px 336px 641px 48px;
+       grid-template-columns: 320px;
+       column-gap: 0px;
+       row-gap: 0;
       }
 }

@@ -37,11 +37,10 @@
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
-        line-height: 20px;
+        font-size: 1rem;
+        line-height: 1.25rem;
         text-align: center;
         color: #FFFFFF;
-        display: flex;
-        margin-bottom: 40px;
+        margin-bottom: 69px;
       }
 }

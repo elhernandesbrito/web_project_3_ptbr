@@ -1,0 +1,10 @@
+  .place-Ribeirao__texts {
+      text-align: justify;
+    }
+
+  @media screen and (max-width:320px) and  (max-height:9626px) {
+    .place-Ribeirao__texts {
+      text-align: justify;
+      margin-left: 16px;
+    }
+  }

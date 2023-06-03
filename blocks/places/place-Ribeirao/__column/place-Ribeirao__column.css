@@ -24,6 +24,6 @@
         grid-template-rows: 65px 75px 350px 88px 48px;
         grid-template-columns: 320px;
         column-gap: 0;
-        row-gap:0; 
+        row-gap:0;
       }
 }

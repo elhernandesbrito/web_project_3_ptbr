@@ -29,12 +29,12 @@
     .place-Ribeirao__title {
         width: 288px;
         height: 35px;
+        margin-left: 16px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 900;
         font-size: 2rem;
         line-height: 2.1875rem;
         color: #FFFFFF;
-        margin-bottom: 0;
       }
 }
