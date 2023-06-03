@@ -2,7 +2,6 @@
         width: 460px;
         height: 460px;
         margin-bottom: 48px;
-      /*  background-image: url('./images/RibeiraoPreto.png');*/
     }
     
 @media screen and (max-width:768px) and  (max-height:7382px) {
@@ -10,7 +9,6 @@
     .place-Ribeirao__image {
         width: 340px;
         height: 340px;
-    /*    background-image: url("./images/RibeiraoPreto.png");*/
     }
 }
 
@@ -19,6 +17,7 @@
     .place-Ribeirao__image {
         width: 320px;
         height: 320px;
-   /*     background-image: url("./images/RibeiraoPreto.png");*/
-      }
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }

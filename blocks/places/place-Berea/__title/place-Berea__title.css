@@ -34,6 +34,8 @@
         line-height: 2.1875rem;
         color: #FFFFFF;
         margin-left: 16px;
-      }
+        margin-top: 0;
+        margin-bottom: 0;
+    }
   
 }

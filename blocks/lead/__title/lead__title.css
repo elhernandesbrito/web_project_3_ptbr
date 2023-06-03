@@ -10,6 +10,8 @@
         color: #FFFFFF;
         display: flex; 
         margin-bottom: 32px;
+        margin-top: 0;
+    
     }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
@@ -41,6 +43,6 @@
         line-height: 2.75rem;
         text-align: center;
         color: #FFFFFF;
-        display: flex; 
+        display: flex;
     }
 }

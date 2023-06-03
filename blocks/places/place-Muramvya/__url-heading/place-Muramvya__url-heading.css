@@ -25,6 +25,7 @@
         letter-spacing: 0.12em;
         text-transform: uppercase;
         color: #AAAAAA;
+        margin-top: 0;
         margin-bottom: 8px;
     }
 }
@@ -42,6 +43,7 @@
         letter-spacing: 0.12em;
         text-transform: uppercase;
         color: #AAAAAA;
+        margin-top: 0;
         margin-bottom: 8px;
       }
 }
