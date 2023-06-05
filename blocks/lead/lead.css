@@ -6,7 +6,6 @@
         display: grid;
         flex-direction: column;
         margin-bottom: 92px;
-    
     }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
@@ -46,6 +45,6 @@
        margin-right: auto;
        display: grid;
        flex-direction: column;
-       margin-bottom: 44px; 
-    }
+       margin-bottom: 44px;
+      }
 }
