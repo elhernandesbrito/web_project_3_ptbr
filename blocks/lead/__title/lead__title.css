@@ -8,8 +8,8 @@
         line-height: 6.25rem;
         text-align: center;
         color: #FFFFFF;
-        display: flex; 
-        margin-bottom: 32px;
+        display: flex;
+        margin-bottom:32px;
     }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
@@ -24,8 +24,8 @@
         line-height: 6.25rem;
         text-align: center;
         color: #FFFFFF;
-        display: flex; 
-        margin-bottom: 99px;
+        display: flex;
+        margin-bottom:99px;
     }
 }
 
@@ -41,6 +41,6 @@
         line-height: 2.75rem;
         text-align: center;
         color: #FFFFFF;
-        display: flex; 
+        display: flex;
     }
 }
