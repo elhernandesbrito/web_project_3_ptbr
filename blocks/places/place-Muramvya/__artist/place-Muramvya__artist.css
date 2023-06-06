@@ -7,11 +7,12 @@
     font-size: 1.125rem;
     line-height: 22px;
     color: #FFFFFF;
+    margin-top: 0;
     }
 @media screen and (max-width:768px) and  (max-height:7382px) {
 
     .place-Muramvya__artist {
-        width: 288px;
+       width: 288px;
        height: 44px;
        font-family: 'Inter';
        font-style: normal;

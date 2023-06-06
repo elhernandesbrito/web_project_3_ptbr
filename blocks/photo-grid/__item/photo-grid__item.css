@@ -17,7 +17,6 @@
     .photo-grid__item {
        width: 288px;
        height: 216px;
-       margin-left: 16px;
        display: flex;
-        }
+    }
 }

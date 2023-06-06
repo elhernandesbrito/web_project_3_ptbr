@@ -1,15 +1,13 @@
     .place-Berea__image{
         width: 460px;
         height: 460px;
-     /*   background-image: url('./images/__image5.png');*/
-        }
+    }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
    
     .place-Berea__image{
         width: 340px;
         height: 340px;
-  /*      background-image: url('./images/__image5.png');*/
     }
 }
 
@@ -17,8 +15,7 @@
     .place-Berea__image{
         width: 320px;
         height: 320px;
-    /*    background-image: url('./images/__image5.png');*/
-      }
+    }
 }
 
   

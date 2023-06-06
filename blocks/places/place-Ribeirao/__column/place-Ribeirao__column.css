@@ -1,29 +1,31 @@
-    .place-Ribeirao__column {
+    .place-Ribeirao__column{
         display: grid;
         grid-template-rows: 152px 460px 48px;
         row-gap: 48px;
         grid-template-columns: 460px 484px;
         column-gap: 40px;
+        
         }
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
     
     .place-Ribeirao__column{
-        display: grid;
-        grid-template-rows: 46px 340px 48px;
-        grid-template-columns: 340px 352px;
-        column-gap: 28px;
+        display:grid;
+        grid-template-rows:46px 340px 48px;
+        grid-template-columns:340px 352px;
+        column-gap:28px;
         row-gap:48px;
     }
 }
 
 @media screen and (max-width:320px) and  (max-height:9626px) {
     
-    .place-Ribeirao__column {
-        display: grid;
-        grid-template-rows: 65px 75px 350px 88px 48px;
-        grid-template-columns: 320px;
-        column-gap: 0;
+    .place-Ribeirao__column{
+        display:grid;
+        grid-template-rows:65px 75px 350px 88px 48px;
+        grid-template-columns:320px;
+        column-gap:0;
         row-gap:0;
+      
       }
 }

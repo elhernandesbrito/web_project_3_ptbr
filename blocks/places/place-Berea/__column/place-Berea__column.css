@@ -1,12 +1,13 @@
-.place-Berea__column {
-    width: 984px;
-    height: 680px;
-    display: grid;
-    grid-template-rows: 76px 460px 48px;
-    row-gap: 48px;
-    grid-template-columns: 460px 484px;
-    column-gap: 40px;
-    }
+    .place-Berea__column {
+        width: 984px;
+        height: 680px;
+        display: grid;
+        grid-template-rows: 76px 460px 48px;
+        row-gap: 48px;
+        grid-template-columns: 460px 484px;
+        column-gap: 40px;
+        }
+        
 @media screen and (max-width:768px) and  (max-height:7382px) {
   
     .place-Berea__column {

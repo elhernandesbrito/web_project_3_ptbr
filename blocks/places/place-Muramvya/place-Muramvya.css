@@ -4,7 +4,7 @@
     height: 830px;
     color: white;
     margin-bottom: 80px;
-    }
+}
 
 @media screen and (max-width:768px) and  (max-height:7382px) {
     .place-Muramvya {
@@ -22,7 +22,7 @@
         width: 320px;
         height: 1433px;
         color: white;
-        margin-bottom: 72px;
-      }
+        margin-bottom: 50px;
+    }
 }
 

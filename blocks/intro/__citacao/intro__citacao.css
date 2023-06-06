@@ -7,6 +7,7 @@
         line-height: 2.125rem;
         color: #FFFFFF;
         display: flex;
+        margin-top: 0;
         margin-bottom: 9px;
         }
         
@@ -36,7 +37,7 @@
        color: #FFFFFF;
        display: flex;
        margin-bottom: 55px;
-       margin-top: 0;
+   
       }
 }
 

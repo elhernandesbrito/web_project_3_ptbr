@@ -10,7 +10,7 @@
         text-transform: uppercase;
         color: #AAAAAA;
         margin-bottom: 8px;
-        }
+    }
     
 @media screen and (max-width:768px) and  (max-height:7382px) {
     
@@ -43,5 +43,6 @@
         text-transform: uppercase;
         color: #AAAAAA;
         margin-bottom: 8px;
-      }
+        margin-top: 0;
+    }
 }
